@@ -9,5 +9,6 @@ const root = createRoot(rootElement);
 root.render(
   <StrictMode>
     <App />
+  <h1>Test</h1>
   </StrictMode>
 );
